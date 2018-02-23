@@ -1,10 +1,5 @@
---[[                                    
-   _____    _        _    _    _____    
-  |_   _|__| |__    / \  | | _| ____|   
-    | |/ __| '_ \  / _ \ | |/ /  _|     
-    | |\__ \ | | |/ ___ \|   <| |___   
-    |_||___/_| |_/_/   \_\_|\_\_____|   
-              CH > @TshAkETEAM
+--[[                         
+              CH > @BABAyteem
 --]]
 
 serpent = require('serpent')
@@ -2531,7 +2526,7 @@ end
 send(msg.chat_id_, msg.id_, 1, moody, 1, 'md')
 end
 
-if text == 'تشاكي' then
+if text == 'بباي' then
 if not database:get('bot:rep:mute'..msg.chat_id_) then
 moody = "• نٍٰـعٍِّـﮧﮧمٍٰ تّٰفِٰـہضلْٰ 🍁🌛ֆ"
 else
@@ -2589,7 +2584,7 @@ send(msg.chat_id_, msg.id_, 1, moody, 1, 'md')
 end
 if text == 'بوت' then
 if not database:get('bot:rep:mute'..msg.chat_id_) then
-moody = "• تّٰفِٰـضـﮧلْٰ حٌٰبٌِٰـہيَٰ 🌚💫ֆ"
+moody = "اسمي بباي فهمت 🌚💫ֆ"
 else
 moody = ''
 end
@@ -12531,16 +12526,16 @@ send(msg.chat_id_, msg.id_, 1, (h6 or text), 1, 'html')
 if text:match("^source$") or text:match("^اصدار$") or text:match("^الاصدار$") or text:match("^السورس$") or text:match("^سورس$") then
 
    local text =  [[
-👋┇اهلا بك في سورس تشاكي 🦁ֆ
+👋┇اهلا بك في سورس بباي 🦁ֆ
 
-🌐┇<strong>TshAkE TEAM</strong>
+🌐┇<strong>BABAy TEAM</strong>
 
-◀┇<a href="https://telegram.me/TshAkETEAM">قناه السورس، 🦁" </a>
+◀┇<a href="https://t.me/wutene">قناه السورس، 🦁" </a>
 ◀┇<a href="https://telegram.me/TshAkE_DEV">قناه شروحات سورس، 🦁" </a>
 
-🔎┇<a href="https://github.com/moodlIMyIl/TshAkE">رابط Github Cli (الرقم)،⚜️ </a>
+🔎┇<a href="https://github.com/abOHEDR/BABAy">رابط Github Cli (الرقم)،⚜️ </a>
 
-🔎┇<a href="https://github.com/moodlIMyIl/TshAkEapi">رابط Github Api (التوكن)،⚜️ </a>
+🔎┇<a href="https://github.com/abOHEDR/BABAy">رابط Github Api (التوكن)،⚜️ </a>
 
 ]]
 send(msg.chat_id_, msg.id_, 1, text, 1, 'html')
