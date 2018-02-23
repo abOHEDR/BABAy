@@ -1,4 +1,4 @@
-☑️┇TshAkE Source 
+☑️┇BABAy Source 
 
 1️⃣┇BEST SOURCE ON TELEGRAM
 
@@ -10,11 +10,11 @@
 
 1️⃣┇افتح ترمنال وحط
 
-git clone https://github.com/moodlIMyIl/TshAkEapi
+git clone https://github.com/abOHEDR/BABAy
 
 2️⃣┇انتر وراه حط،
 
-cd TshAkEapi 
+cd BABAy 
 
 3️⃣┇وانتر وراه حط
 
@@ -26,7 +26,7 @@ cd TshAkEapi
 
 ⤵️┇او نصب بكود واحد،
 
-git clone https://github.com/moodlIMyIl/TshAkEapi && cd TshAkEapi && chmod +x install.sh && ./install.sh
+git clone https://github.com/abOHEDR/BABAy && cd BABAy && chmod +x install.sh && ./install.sh
 
 📥┇وراح يطلب منك اثناء التنصيب تحط y او n دائما اختار y، 
 
@@ -64,9 +64,9 @@ git clone https://github.com/moodlIMyIl/TshAkEapi && cd TshAkEapi && chmod +x in
 
 ☑️┇تيجي الجديد ع التوكن 
 
-📮┇@TshAkETEAM
+📮┇@SH_A_D_O
 
-🦁┇@TSHELPBOT
+🦁┇@SH_A_D_O
 
 
 
